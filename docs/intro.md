@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+slug: /
+---
 # Tutorial Intro
 
 Let's discover **Rych in less than 5 minutes**.

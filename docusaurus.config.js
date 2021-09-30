@@ -22,6 +22,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ({
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
+                    routeBasePath: '/',
                     // Please change this to your repo.
                     editUrl: 'https://github.com/Veeni21/help-centre/edit/main/website/',
                 },
