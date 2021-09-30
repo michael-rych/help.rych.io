@@ -1,10 +1,3 @@
----
-# sidebar_position: 1
-id: intro
-slug: /intro
----
-
-
 # Tutorial Intro
 
 Let's discover **Rych in less than 5 minutes**.
