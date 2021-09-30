@@ -6,13 +6,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
     title: 'Rych Help Centre',
     tagline: 'How Can We Help You?',
-    url: 'https://your-docusaurus-test-site.com',
+    url: 'https://veeni21.github.io/help-centre/',
+    // baseUrl: '/helpcentre/',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.png',
-    organizationName: 'facebook', // Usually your GitHub org/user name.
-    projectName: 'docusaurus', // Usually your repo name.
+    organizationName: 'Veeni21', // Usually your GitHub org/user name.
+    projectName: 'help-centre', // Usually your repo name.
 
     presets: [
         [
@@ -43,21 +44,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             title: 'Rych Help Centre',
             logo: {
                 alt: 'Rych Logo',
-                src: 'img/logo.png',
+                src: './img/logo.png',
             },
             items: [{
-                    type: 'doc',
-                    docId: 'intro',
-                    position: 'left',
-                    label: 'Tutorial',
-                },
-                // { to: '/blog', label: 'Blog', position: 'left' },
-                // {
-                //     href: 'https://github.com/facebook/docusaurus',
-                //     label: 'GitHub',
-                //     position: 'right',
-                // },
-            ],
+                type: 'doc',
+                docId: 'intro',
+                position: 'left',
+                label: 'Tutorial',
+            }, ],
         },
         footer: {
             style: 'dark',
@@ -99,9 +93,5 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
             copyright: `Copyright © ${new Date().getFullYear()} | Powered by Rych Communications Portal.`,
         },
-        // prism: {
-        //     theme: lightCodeTheme,
-        //     darkTheme: darkCodeTheme,
-        // },
     }),
 });
