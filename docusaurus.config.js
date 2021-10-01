@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     title: 'Rych Help Centre',
     tagline: 'How Can We Help You?',
     url: 'https://veeni21.github.io/',
-    // baseUrl: '/helpcentre/',
-    baseUrl: '/',
+    baseUrl: '/help-centre/',
+    // baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.png',
@@ -60,7 +60,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                     title: 'Docs',
                     items: [{
                         label: 'Tutorial',
-                        to: '/docs/intro',
+                        to: '/',
                     }, ],
                 },
                 {
