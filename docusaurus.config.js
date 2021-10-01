@@ -24,7 +24,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                     sidebarPath: require.resolve('./sidebars.js'),
                     routeBasePath: '/',
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/Veeni21/help-centre/edit/main/website/',
+                    // editUrl: 'https://github.com/Veeni21/help-centre/edit/main/website/',
                 },
                 blog: {
                     showReadingTime: true,
@@ -47,12 +47,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 alt: 'Rych Logo',
                 src: './img/logo.png',
             },
-            items: [{
-                type: 'doc',
-                docId: 'intro',
-                position: 'left',
-                label: 'Tutorial',
-            }, ],
+            // items: [{
+            //     type: 'doc',
+            //     docId: 'intro',
+            //     position: 'left',
+            //     label: 'Tutorial',
+            // }, ],
         },
         footer: {
             style: 'dark',
@@ -63,22 +63,22 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                         to: '/',
                     }, ],
                 },
-                {
-                    title: 'Community',
-                    items: [{
-                            label: 'Stack Overflow',
-                            href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-                        },
-                        {
-                            label: 'Discord',
-                            href: 'https://discordapp.com/invite/docusaurus',
-                        },
-                        {
-                            label: 'Twitter',
-                            href: 'https://twitter.com/docusaurus',
-                        },
-                    ],
-                },
+                // {
+                //     title: 'Community',
+                //     items: [{
+                //             label: 'Stack Overflow',
+                //             href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                //         },
+                //         {
+                //             label: 'Discord',
+                //             href: 'https://discordapp.com/invite/docusaurus',
+                //         },
+                //         {
+                //             label: 'Twitter',
+                //             href: 'https://twitter.com/docusaurus',
+                //         },
+                //     ],
+                // },
                 // {
                 //     title: 'More',
                 //     items: [{
