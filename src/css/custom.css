@@ -30,11 +30,11 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 
 html[data-theme='light'] .themedImage--light_node_modules-\@docusaurus-theme-classic-lib-next-theme-ThemedImage-styles-module {
-    width: 120px;
-    height: 100px;
+    width: 120px !important;
+    height: 100px !important;
 }
 
 html[data-theme='dark'] .themedImage--dark_node_modules-\@docusaurus-theme-classic-lib-next-theme-ThemedImage-styles-module {
-    width: 120px;
-    height: 100px;
+    width: 120px !important;
+    height: 100px !important;
 }
