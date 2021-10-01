@@ -41,11 +41,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
+        colorMode: {
+            disableSwitch: false,
+        },
         navbar: {
             title: 'Rych Help Centre',
             logo: {
                 alt: 'Rych Logo',
-                src: './img/logo.png',
+                src: './img/sample3.png',
+                srcDark: 'img/sample3.png',
             },
             // items: [{
             //     type: 'doc',
