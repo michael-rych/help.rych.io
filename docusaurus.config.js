@@ -45,8 +45,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             title: 'Rych Help Centre',
             logo: {
                 alt: 'Rych Logo',
-                src: './img/sample3.png',
-                srcDark: 'img/sample3.png',
+                src: './img/logo.png',
+                srcDark: './img/logoDrk.png',
             },
             // items: [{
             //     type: 'doc',
@@ -96,8 +96,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             copyright: `Copyright © ${new Date().getFullYear()} | Powered by Rych Communications Portal.`,
             logo: {
                 alt: 'Rych Logo',
-                src: './img/sample3.png',
-                srcDark: 'img/sample3.png',
+                src: './img/logo.png',
+                srcDark: './img/logoDrk.png',
             },
         },
     }),
