@@ -2,7 +2,7 @@
 sidebar_position: 1
 slug: /
 ---
-# Intro
+# Introduction
 
 Let's discover **Rych in less than 5 minutes**.
 
