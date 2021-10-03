@@ -97,7 +97,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             logo: {
                 alt: 'Rych Logo',
                 src: './img/logo.png',
-                srcDark: './img/logoDrk.png',
+                srcDark: './img/logo.png',
             },
         },
     }),
