@@ -96,8 +96,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             copyright: `Copyright © ${new Date().getFullYear()} | Powered by Rych Communications Portal.`,
             logo: {
                 alt: 'Rych Logo',
-                src: './img/logo.png',
-                srcDark: './img/logo.png',
+                src: './img/logoDrk.png',
+                srcDark: './img/logoDrk.png',
             },
         },
     }),
