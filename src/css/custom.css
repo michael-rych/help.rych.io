@@ -34,3 +34,8 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
     width: 120px;
     height: 100px;
 }
+
+.menu__list {
+    font-family: roboto;
+    font-size: medium;
+}
