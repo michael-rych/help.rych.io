@@ -7,6 +7,14 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), a modern sta
 ```
 $ yarn
 ```
+### Windows Deployment (Michael)
+
+Run this in windows command (in help.rych.io directory)
+
+```
+cmd /C "set "GIT_USER=michael-rych" && yarn deploy"
+```
+
 
 ### Local Development
 
