@@ -9,6 +9,11 @@ $ yarn
 ```
 ### Windows Deployment (Michael)
 
+```
+yarn build
+```
+
+
 Run this in windows command (in help.rych.io directory)
 
 ```
