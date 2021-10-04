@@ -36,6 +36,17 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 
 .menu__list {
-    font-family: roboto;
     font-size: medium;
+}
+
+body {
+    font-family: 'Segoe UI';
+}
+
+h1 {
+    font-size: 32px;
+}
+
+p {
+    font-size: 22px;
 }
