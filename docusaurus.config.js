@@ -8,7 +8,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     tagline: 'How Can We Help You?',
     url: 'https://michael-rych.github.io/',
     baseUrl: '/help.rych.io/',
+    //
     // baseUrl: '/',
+    //
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.png',
