@@ -50,3 +50,10 @@ h1 {
 p {
     font-size: 22px;
 }
+
+.markdown ::marker,
+.markdown li,
+.markdown>p {
+    font-size: 22px;
+    text-align: justify;
+}
