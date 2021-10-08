@@ -1,4 +1,7 @@
-﻿# Terms of Service
+﻿---
+sidebar_label: Terms and Conditions
+---
+# Rych Terms of Service
 
 This Agreement is made between **3Rych Sdn.Bhd.**, a private limited company incorporated under the Malaysian law, with registered office at Petaling Jaya, Selangor. The company is registered with the Companies Commission of Malaysia under the registration number 202001018190 (1374510-H) (**“3Rych”**), and Customer.
 
