@@ -39,6 +39,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             }),
         ],
     ],
+    // stylesheets: [
+    //     // String format.
+    //     'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css'
+    // ],
 
     themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -66,34 +70,46 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                         to: '/',
                     }, ],
                 },
-                // {
-                //     title: 'Community',
-                //     items: [{
-                //             label: 'Stack Overflow',
-                //             href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-                //         },
-                //         {
-                //             label: 'Discord',
-                //             href: 'https://discordapp.com/invite/docusaurus',
-                //         },
-                //         {
-                //             label: 'Twitter',
-                //             href: 'https://twitter.com/docusaurus',
-                //         },
-                //     ],
-                // },
-                // {
-                //     title: 'More',
-                //     items: [{
-                //             label: 'Blog',
-                //             to: '/blog',
-                //         },
-                //         {
-                //             label: 'GitHub',
-                //             href: 'https://github.com/facebook/docusaurus',
-                //         },
-                //     ],
-                // },
+                {
+                    title: 'Quick Links',
+                    items: [{
+                            label: 'Beta Sign Up',
+                            href: 'https://app.rych.io/pages/register.html',
+                        },
+                        {
+                            label: 'Features',
+                            href: 'https://rych.io/',
+                        },
+                        {
+                            label: 'Pricing',
+                            href: 'https://rych.io/pricing/',
+                        },
+                        {
+                            label: 'Contact Us',
+                            href: 'https://rych.io/contact/'
+                        },
+                        {
+                            label: 'About Us',
+                            href: 'https://rych.io/about-us/'
+                        },
+                        {
+                            label: 'Blog',
+                            href: 'https://rych.io/blog/'
+                        }
+                    ],
+                },
+                {
+                    title: 'Contact Us',
+                    items: [{
+                            label: 'email',
+                            href: 'infocentre@rych.io'
+                        },
+                        {
+                            // label: 'Follow Us',
+                            html: '<a href="https://www.facebook.com/3rych" target="_blank">' + '<span><i class ="fab fa-facebook"></i></span>' + '</a > '
+                        },
+                    ],
+                },
             ],
             copyright: `Copyright © ${new Date().getFullYear()} | Powered by Rych Communications Portal.`,
             logo: {
