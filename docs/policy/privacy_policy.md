@@ -1,8 +1,8 @@
 ﻿---
 sidebar_label: Privacy Policy
+id: Privacy-Policy
+title: Privacy Policy
 ---
-
-# PRIVACY POLICY
 
 You should read this Privacy Policy in full to ensure you are fully informed. In the event of any inconsistency or conflict between the English version and the Bahasa Melayu version of this Policy, the English version shall prevail. 3Rych Sdn. Bhd. and its Group Companies (collectively “3Rych”, “we”, “us”, and “ours”) are committed to protecting your privacy. This Privacy Policy (“Policy”) describes how 3Rych processes Personal Data in its capacity as a controller (i.e. when 3Rych determines the purposes and means of the processing of Personal Data) It also describes your choices and rights regarding use, access and correction of your Personal Data. For the avoidance of doubt, this Policy does not apply to situations where we process Personal Data in our Processor’s role on behalf of our customers.
 
