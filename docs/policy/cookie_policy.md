@@ -1,3 +1,7 @@
+---
+sidebar_label: Cookie Policy
+---
+
 # Cookie Preferences
 This website uses the following types of cookies; strictly necessary,functional,performance and marketing cookies. For specific information regarding how these cookies may impact your experience, please consult the details below.
 
