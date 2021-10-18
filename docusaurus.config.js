@@ -102,7 +102,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                     title: 'Contact Us',
                     items: [{
                             label: 'email',
-                            href: 'infocentre@rych.io'
+                            href: 'mailto:infocentre@rych.io'
                         },
                         {
                             // label: 'Follow Us',
