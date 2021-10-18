@@ -68,12 +68,19 @@ blockquote {
 
 blockquote>p {
     font-size: 12px;
+    color: black;
 }
 
 blockquote>h2 {
     font-size: 16px;
+    color: black;
 }
 
 blockquote>h3 {
     font-size: 14px;
+    color: black;
+}
+
+.navbar__title {
+    font-size: larger;
 }
