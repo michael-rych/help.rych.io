@@ -5,7 +5,7 @@ sidebar_label: Terms and Conditions
 
 This Agreement is made between **3Rych Sdn.Bhd.**, a private limited company incorporated under the Malaysian law, with registered office at Petaling Jaya, Selangor. The company is registered with the Companies Commission of Malaysia under the registration number 202001018190 (1374510-H) (**“3Rych”**), and Customer.
 
-The Agreement governs Customer’s licensing and use of the Services. By using our Services, Customer agrees to the terms of this Agreement as of the Effective Date.
+The Agreement governs Customer’s licensing and use of the Services. By using our services, Customer agrees to the terms of this Agreement as of the Effective Date.
 Any deviation from this Agreement should only be valid if and agreed upon by and between the Parties in writing.
 
 WHEREAS:
@@ -13,7 +13,7 @@ WHEREAS:
 1. Customer wishes to use 3Rych’s Service in its business operation. 
 1. 3Rych wishes to provide Service to Customer and Customer wishes to use and pay for its service in accordance with the terms of this Agreement.  
 
-NOW,THEREFORE,in consideration of the mutual agreements, covenants and representations contained herein, the Parties agree to the following:
+NOW, THEREFORE, in consideration of the mutual agreements, covenants and representations contained herein, the Parties agree to the following:
 
 1. **Definitions**
    1. **“Affiliate”** means, in relation to either Party, any legal person which is Controlled by, Controls or is under common Control with, such person. Control meaning with respect to the relevant person, (i) the direct or indirect ownership or control of more than 50% of the (a) ownership interests or (b) voting power at the general meeting or a similar body, of that person, or (ii) the right or ability to appoint or remove such number of the members of the board or a similar body of that person with decisive voting power in such body.
