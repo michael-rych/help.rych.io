@@ -73,45 +73,30 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 {
                     title: 'Quick Links',
                     items: [{
-                            label: 'Beta Sign Up',
-                            href: 'https://app.rych.io/pages/register.html',
-                        },
-                        {
+                            label: 'About Us',
+                            href: 'https://rych.io/about-us/'
+                        }, {
                             label: 'Features',
                             href: 'https://rych.io/',
-                        },
-                        {
+                        }, {
                             label: 'Pricing',
                             href: 'https://rych.io/pricing/',
+                        }, {
+                            label: 'Blog',
+                            href: 'https://rych.io/blog/'
+                        }, {
+                            label: 'Sign Up',
+                            href: 'https://app.rych.io/pages/register.html',
                         },
                         {
                             label: 'Contact Us',
                             href: 'https://rych.io/contact/'
                         },
-                        {
-                            label: 'About Us',
-                            href: 'https://rych.io/about-us/'
-                        },
-                        {
-                            label: 'Blog',
-                            href: 'https://rych.io/blog/'
-                        }
-                    ],
-                },
-                {
-                    title: 'Contact Us',
-                    items: [{
-                            label: 'email',
-                            href: 'mailto:infocentre@rych.io'
-                        },
-                        {
-                            // label: 'Follow Us',
-                            html: '<a href="https://www.facebook.com/3rych" target="_blank">' + '<span><i class ="fab fa-facebook"></i></span>' + '</a > '
-                        },
+
                     ],
                 },
             ],
-            copyright: `Copyright © ${new Date().getFullYear()} | Powered by Rych Communications Portal.`,
+            copyright: `Copyright © ${new Date().getFullYear()} | Powered by Rych`,
             logo: {
                 alt: 'Rych Logo',
                 src: './img/logoDrk.png',
