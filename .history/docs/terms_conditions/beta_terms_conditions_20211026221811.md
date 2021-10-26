@@ -3,7 +3,7 @@ sidebar_label: Beta Terms and Conditions
 ---
 # Rych Beta Terms and Conditions
 
-Thank you for participating in the Rych Beta Program. These Rych Beta Program Terms (“Terms”) apply to and govern your participation in any or all of public or private beta programs (“Beta Program”) and use of Rych’s Beta Services (“Beta Services”). In order to participate in a Beta Program or use Beta Services, you must agree to these terms. We have provided abbreviated language to help you navigate some of the legalese below.
+Thank you for participating in the Rych Beta Program. These Rych Beta Program Terms (“Terms”) apply to and govern your participation in any or all of public or private beta programs (“Beta Program‘) and use of Rych’s Beta Services (“Beta Services”). In order to participate in a Beta Program or use Beta Services, you must agree to these terms. We have provided abbreviated language to help you navigate some of the legalese below.
 
 1. **Eligibility and Participation**
 
