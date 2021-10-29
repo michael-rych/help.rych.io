@@ -38,7 +38,7 @@ has facebook messenger,instagram,whatsapp and telegram account with Rych therefo
 + Last time in terms of date in DD/MM/YYYY format and time HH:MM:SS that chat last occured    between suport agent and customer.
 In this example the last chat was on 27/10/2021 15:32:00.
 
-### 8 - Last chat time with recipient.
+### 8 - Last chat time with recipient
 
 + If the chat occured today then only time will be displayed else. If the chat took place yesterday then the word **yesterday** will be shown else it will be the date in terms of DD/MM/YYYY.
 
@@ -50,7 +50,7 @@ In this example the last chat was on 27/10/2021 15:32:00.
 
 ### 10 - The last message in the chat
 
-+ In this example the last message is No worries as shown by chat dialog of marker 7. 
++ In this example the last message is No worries as shown by chat dialog of marker 7.
 
 ### 11. Emoji Selector
 
