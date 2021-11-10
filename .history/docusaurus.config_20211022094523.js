@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
     title: 'Rych Help Centre',
     tagline: 'How Can We Help You?',
-    url: 'https://veeni21.github.io/help.rych.io/',
-    baseUrl: '/help.rych.io/',
+    url: 'https://michael-rych.github.io/',
+    baseUrl: '/',
     //
     // baseUrl: '/',
     //
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.png',
-    organizationName: 'Veeni21', // Usually your GitHub org/user name.
+    organizationName: 'michael-rych', // Usually your GitHub org/user name.
     projectName: 'help.rych.io', // Usually your repo name.
 
     presets: [
