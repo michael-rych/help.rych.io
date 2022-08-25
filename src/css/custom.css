@@ -7,8 +7,12 @@
 
 /* You can override the default Infima variables here. */
 
+/* body {
+    font-family: 'Segoe UI';
+} */
+
 body {
-    font-family: 'Roboto'!important;
+    font-family: 'Roboto';
 }
 
 :root {
@@ -43,14 +47,9 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
     font-size: medium;
 }
 
-body {
-    font-family: 'Segoe UI';
-}
-
-
 h1 {
     font-size: 32px;
-    font-family: 'Roboto'!important;
+    font-family: 'roboto';
 }
 
 p {
@@ -60,7 +59,7 @@ p {
 .markdown ::marker,
 .markdown li,
 .markdown>p {
-    font-size: 20px;
+    font-size: 16px;
     text-align: justify;
     margin: 40px 0px 40px 0px;
 }
@@ -93,5 +92,5 @@ blockquote>h3 {
 }
 
 .admonition p{
-    font-size: 20px;
+    font-size: 16px;
 }
