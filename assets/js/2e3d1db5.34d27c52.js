@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9826],{3381:function(e){e.exports=JSON.parse('{"allTagsPath":"/help.rych.io/blog/tags","slug":"/help.rych.io/blog/tags/hello","name":"hello","count":2,"permalink":"/help.rych.io/blog/tags/hello"}')}}]);

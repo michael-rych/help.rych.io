@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2459],{2065:function(s){s.exports=JSON.parse('{"allTagsPath":"/help.rych.io/blog/tags","slug":"/help.rych.io/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/help.rych.io/blog/tags/docusaurus"}')}}]);
