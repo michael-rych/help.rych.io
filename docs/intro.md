@@ -15,7 +15,7 @@ and **invite your team members**.
 
 ## Chat in one place
 
-Bridge your social channels with Rych
+Bridge your social channels with Rych.
 
 ## Build Your Profile
 

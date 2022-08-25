@@ -1,0 +1,38 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.How It Works?": {
+    "message": "Bagaimana Ia Berfungsi?",
+    "description": "The label for category How It Works? in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Bridge": {
+    "message": "Bridge",
+    "description": "The label for category Bridge in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Chat": {
+    "message": "Chat",
+    "description": "The label for category Chat in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Profile": {
+    "message": "Profil",
+    "description": "The label for category Profile in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Manage Users": {
+    "message": "Uruskan Pengguna",
+    "description": "The label for category Manage Users in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Faqs": {
+    "message": "Soalan Lazim",
+    "description": "The label for category Faqs in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Policies": {
+    "message": "Polisi",
+    "description": "The label for category Policies in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Terms and Conditions": {
+    "message": "Terma dan Syarat",
+    "description": "The label for category Terms and Conditions in sidebar tutorialSidebar"
+  }
+}

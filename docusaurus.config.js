@@ -3,7 +3,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
-(module.exports = {
+module.exports = {
     title: 'Rych Help Centre',
     tagline: 'How Can We Help You?',
     url: 'https://michael-rych.io/help.rych.io',
@@ -13,6 +13,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     favicon: 'img/favicon.png',
     organizationName: 'michael-rych', // Usually your GitHub org/user name.
     projectName: 'help.rych.io', // Usually your repo name.
+
+    i18n: {
+        defaultLocale: 'en',
+        locales: ['en', 'ms','zh-CN'],
+    },
+
 
     presets: [
         [
@@ -44,6 +50,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
+        colorMode: {
+            switchConfig: {
+                darkIcon: '🌙',
+                lightIcon: '💡',
+            },
+        },
         navbar: {
             title: 'Rych Help Centre',
             logo: {
@@ -51,6 +63,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 src: './img/logo.png',
                 srcDark: './img/logoDrk.png',
             },
+
+            items: [
+                {
+                    type: 'localeDropdown',
+                    position: 'right',
+                },
+            ], 
             // items: [{
             //     type: 'doc',
             //     docId: 'intro',
@@ -101,4 +120,4 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             },
         },
     }),
-});
+};

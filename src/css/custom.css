@@ -55,8 +55,9 @@ p {
 .markdown ::marker,
 .markdown li,
 .markdown>p {
-    font-size: 22px;
+    font-size: 20px;
     text-align: justify;
+    margin: 40px 0px 40px 0px;
 }
 
 blockquote {
@@ -84,4 +85,8 @@ blockquote>h3 {
 
 .navbar__title {
     font-size: larger;
+}
+
+.admonition p{
+    font-size: 16px;
 }
