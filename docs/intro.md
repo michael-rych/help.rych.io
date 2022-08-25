@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: /
 ---
 
-## Introduction
+# Introduction
 
 RYCH is an omnichannel communication cloud portal.
 
@@ -16,7 +16,7 @@ Easily integrate data from individual silos.
 Generate insights for your planning & decision-making.
 
 
-## Who is RYCH users?
+# Who is RYCH users?
 
 SMEs of a digital-native startup who is born & breeds on the cloud, from small mom-and-pop to traditional businesses who are on their digital transformation journey are our potential customers. 
 
@@ -27,7 +27,7 @@ The objective is to become an **engagement-driven** business.
 and **invite your team members**.
 
 
-## What are RYCH key features?
+# What are RYCH key features?
 
 i) Professional Support Chat
 ii) Team Chat Collaboration
@@ -37,5 +37,5 @@ v) Insights
 vi) Mobility
 
 
-## Let's start our journey to becoming an engagement-driven business with **RYCH**
+# Let's start our journey to becoming an engagement-driven business with **RYCH**
 

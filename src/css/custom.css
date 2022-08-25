@@ -7,6 +7,10 @@
 
 /* You can override the default Infima variables here. */
 
+body {
+    font-family: 'Roboto'!important;
+}
+
 :root {
     --ifm-color-primary: #25c2a0;
     --ifm-color-primary-dark: rgb(33, 175, 144);
@@ -44,9 +48,10 @@ body {
 }
 
 
-/* h1 {
+h1 {
     font-size: 32px;
-} */
+    font-family: 'Roboto'!important;
+}
 
 p {
     font-size: 22px;
@@ -88,5 +93,5 @@ blockquote>h3 {
 }
 
 .admonition p{
-    font-size: 16px;
+    font-size: 20px;
 }
