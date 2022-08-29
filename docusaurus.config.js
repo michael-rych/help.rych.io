@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-    title: 'Rych Help Centre',
+    title: 'RYCH Help Centre',
     tagline: 'How Can We Help You?',
     url: 'https://michael-rych.io/help.rych.io',
     baseUrl: '/',
@@ -14,12 +14,10 @@ module.exports = {
     organizationName: 'michael-rych', // Usually your GitHub org/user name.
     projectName: 'help.rych.io', // Usually your repo name.
 
-    
     i18n: {
         defaultLocale: 'en',
         locales: ['en', 'ms','zh-CN'],
     },
-
 
     presets: [
         [
@@ -58,7 +56,7 @@ module.exports = {
             },
         },
         navbar: {
-            title: 'Rych Help Centre',
+            title: 'RYCH Help Centre',
             logo: {
                 alt: 'Rych Logo',
                 src: './img/logo.png',

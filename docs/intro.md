@@ -3,39 +3,34 @@ sidebar_position: 1
 slug: /
 ---
 
-# Introduction
+# Why RYCH?
 
 RYCH is an omnichannel communication cloud portal.
 
-It is so critical these days, that every business has become a digital business. 
-Consumers have experienced personalized services from other brands. 
-You are only able to compete if you start by leveraging technologies and data.
+It is so critical these days, that every business has become a **digital business**. 
+Consumers have experienced personalized services from other brands and you are only able to compete if you start by leveraging technologies and data.
 
-Our vision is to allow our customers to aggregate multiple communication channels in a single portal
-Easily integrate data from individual silos. 
-Generate insights for your planning & decision-making.
+Our vision is to allow our customers to **aggregate** multiple communication channels in a single portal so we can easily **integrate** data from individual silos to **generating** insights for your planning & decision-making.
 
 
-# Who is RYCH users?
+# Who is suitable to use RYCH?
 
-SMEs of a digital-native startup who is born & breeds on the cloud, from small mom-and-pop to traditional businesses who are on their digital transformation journey are our potential customers. 
+SMEs of a digital-native startup who is born & breed on the cloud, from small mom-and-pop to traditional businesses who are on their **digital transformation** journey are our potential customers. 
 
-Businesses are putting effort into becoming a digital business
+Businesses are putting effort into becoming a digital business.
 
 The objective is to become an **engagement-driven** business. 
 
-and **invite your team members**.
+
+# What are RYCH key drivers?
+
+1. Bridging multiple channels
+2. Enabling external & internal chat
+3. Profiling database
 
 
-# What are RYCH key features?
 
-i) Professional Support Chat
-ii) Team Chat Collaboration
-iii) Active Profiles
-iv) Hash Tagging
-v) Insights
-vi) Mobility
-
+![image info](../static/img/intro4.png)
 
 # Let's start our journey to becoming an engagement-driven business with **RYCH**
 

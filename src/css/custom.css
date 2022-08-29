@@ -57,11 +57,18 @@ p {
 }
 
 .markdown ::marker,
-.markdown li,
 .markdown>p {
     font-size: 16px;
     text-align: justify;
     margin: 40px 0px 40px 0px;
+}
+
+.markdown h1{
+    font-size: 30px;
+}
+
+.markdown li{
+    margin: 15px 0px 15px 0px;
 }
 
 blockquote {
@@ -93,4 +100,9 @@ blockquote>h3 {
 
 .admonition p{
     font-size: 16px;
+}
+
+[data-theme='light'] img[src$='#gh-dark-mode-only'],
+[data-theme='dark'] img[src$='#gh-light-mode-only'] {
+  display: none;
 }
