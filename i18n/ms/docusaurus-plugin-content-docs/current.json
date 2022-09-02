@@ -12,7 +12,7 @@
     "description": "The label for category Bridge in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Chat": {
-    "message": "Chat",
+    "message": "Bualan",
     "description": "The label for category Chat in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Profile": {
@@ -23,16 +23,16 @@
     "message": "Uruskan Pengguna",
     "description": "The label for category Manage Users in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Faqs": {
-    "message": "Soalan Lazim",
-    "description": "The label for category Faqs in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.FAQs": {
+    "message": "FAQs (Soalan Lazim)",
+    "description": "The label for category FAQs in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Policies": {
-    "message": "Polisi",
+    "message": "Policies",
     "description": "The label for category Policies in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Terms and Conditions": {
-    "message": "Terma dan Syarat",
+    "message": "Terms and Conditions",
     "description": "The label for category Terms and Conditions in sidebar tutorialSidebar"
   }
 }

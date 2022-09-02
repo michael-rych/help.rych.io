@@ -4,7 +4,7 @@
     "description": "The title of the footer links column with title=Docs in the footer"
   },
   "link.title.Quick Links": {
-    "message": "Pautan Pantas",
+    "message": "Quick Links",
     "description": "The title of the footer links column with title=Quick Links in the footer"
   },
   "link.item.label.Tutorial": {
@@ -12,15 +12,15 @@
     "description": "The label of footer link with label=Tutorial linking to /"
   },
   "link.item.label.About Us": {
-    "message": "Tentang Kami",
+    "message": "About Us",
     "description": "The label of footer link with label=About Us linking to https://rych.io/about-us/"
   },
   "link.item.label.Features": {
-    "message": "Ciri-ciri",
+    "message": "Features",
     "description": "The label of footer link with label=Features linking to https://rych.io/"
   },
   "link.item.label.Pricing": {
-    "message": "Penentuan Harga",
+    "message": "Pricing",
     "description": "The label of footer link with label=Pricing linking to https://rych.io/pricing/"
   },
   "link.item.label.Blog": {
@@ -28,11 +28,11 @@
     "description": "The label of footer link with label=Blog linking to https://rych.io/blog/"
   },
   "link.item.label.Sign Up": {
-    "message": "Daftar",
+    "message": "Sign Up",
     "description": "The label of footer link with label=Sign Up linking to https://app.rych.io/pages/register.html"
   },
   "link.item.label.Contact Us": {
-    "message": "Hubungi Kami",
+    "message": "Contact Us",
     "description": "The label of footer link with label=Contact Us linking to https://rych.io/contact/"
   },
   "copyright": {

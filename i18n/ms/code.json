@@ -172,7 +172,7 @@
     "description": "The label alongside a tag list"
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "Dalam muka ini",
+    "message": "On this page",
     "description": "The label used by the button on the collapsible TOC component"
   },
   "theme.tags.tagsPageTitle": {
