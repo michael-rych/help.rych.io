@@ -4,7 +4,7 @@
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.How It Works?": {
-    "message": "这个怎么运作？",
+    "message": "How It Works?",
     "description": "The label for category How It Works? in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Bridge": {
@@ -12,27 +12,27 @@
     "description": "The label for category Bridge in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Chat": {
-    "message": "聊天",
+    "message": "Chat",
     "description": "The label for category Chat in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Profile": {
-    "message": "轮廓",
+    "message": "Profile",
     "description": "The label for category Profile in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Manage Users": {
-    "message": "管理用户",
+    "message": "Manage Users",
     "description": "The label for category Manage Users in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Faqs": {
-    "message": "经常问的问题",
-    "description": "The label for category Faqs in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.FAQs": {
+    "message": "FAQs",
+    "description": "The label for category FAQs in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Policies": {
-    "message": "政策",
+    "message": "Policies",
     "description": "The label for category Policies in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Terms and Conditions": {
-    "message": "条款和条件",
+    "message": "Terms and Conditions",
     "description": "The label for category Terms and Conditions in sidebar tutorialSidebar"
   }
 }

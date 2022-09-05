@@ -1,6 +1,6 @@
 ---
 id: cookie-policy
-sidebar_label: Cookie 政策
+sidebar_label: Cookie Policy
 title: Cookie Policy
 ---
 

@@ -3,20 +3,34 @@ sidebar_position: 1
 slug: /
 ---
 
-# 引言
+# Why RYCH?
 
-**让我们在不到 5 分钟**的时间内发现 Rych。
+RYCH is an omnichannel communication cloud portal.
 
-## 入门
+It is so critical these days, that every business has become a **digital business**. 
+Consumers have experienced personalized services from other brands and you are only able to compete if you start by leveraging technologies and data.
 
-通过**注册 Rych 帐户开始**
+Our vision is to allow our customers to **aggregate** multiple communication channels in a single portal so we can easily **integrate** data from individual silos to **generating** insights for your planning & decision-making.
 
-并**邀请您的团队成员**。
 
-## 在一个地方聊天
+# Who is suitable to use RYCH?
 
-与 Rych 连接您的社交渠道。
+SMEs of a digital-native startup who is born & breed on the cloud, from small mom-and-pop to traditional businesses who are on their **digital transformation** journey are our potential customers. 
 
-## 建立您的个人资料
+Businesses are putting effort into becoming a digital business.
 
-为您的客户创建配置文件或链接到现有配置文件。
+The objective is to become an **engagement-driven** business. 
+
+
+# What are RYCH key drivers?
+
+1. Bridging multiple channels
+2. Enabling external & internal chat
+3. Profiling database
+
+
+
+![image info](../static/img/intro4.png)
+
+# Let's start our journey to becoming an engagement-driven business with **RYCH**
+

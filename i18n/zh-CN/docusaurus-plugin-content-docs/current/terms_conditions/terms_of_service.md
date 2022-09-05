@@ -1,5 +1,5 @@
 ﻿---
-sidebar_label: 条款和条件
+sidebar_label: Terms and Conditions
 ---
 # Rych Terms of Service
 

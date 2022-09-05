@@ -1,5 +1,5 @@
 ﻿---
-sidebar_label: 隐私政策
+sidebar_label: Privacy Policy
 id: Privacy-Policy
 title: Privacy Policy
 ---
