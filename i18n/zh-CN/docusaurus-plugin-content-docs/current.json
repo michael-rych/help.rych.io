@@ -4,27 +4,27 @@
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.How It Works?": {
-    "message": "How It Works?",
+    "message": "如何使用?",
     "description": "The label for category How It Works? in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Bridge": {
-    "message": "Bridge",
+    "message": "连接",
     "description": "The label for category Bridge in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Chat": {
-    "message": "Chat",
+    "message": "聊天",
     "description": "The label for category Chat in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Profile": {
-    "message": "Profile",
+    "message": "客户资料",
     "description": "The label for category Profile in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Manage Users": {
-    "message": "Manage Users",
+    "message": "成员管理",
     "description": "The label for category Manage Users in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.FAQs": {
-    "message": "FAQs",
+    "message": "常见问题",
     "description": "The label for category FAQs in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Policies": {
