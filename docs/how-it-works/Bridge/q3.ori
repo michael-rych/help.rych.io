@@ -18,8 +18,8 @@ Step 2: Select the channel account that you wish to bridge.
 
 :::caution Please Note :
  
- The **Instagram** bridge is currently under development and will not be available at the moment, despite being shown in the illustrated images.
- 
+ To bridge **Instagram**, you need to turn off the 2 Factor Authentication (2FA) in your Instagram app settings.
+
 :::
 
 ![image info](../../../static/img/q3/step2.png)
